@@ -118,9 +118,7 @@ Database:
 * In Address Bar of the browser write "`localhost/EL_Movie-Booking-Platform/index.php`"
 * You can view the Admin with "`localhost/EL_Movie-Booking-Platform/admin/index.php`"
 * You can view the Dataset from "`localhost/phpmyadmin`"
-
 <br><br>
-
 
 # References
 * https://docs.angularjs.org/guide
